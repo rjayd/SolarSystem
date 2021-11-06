@@ -11,9 +11,9 @@ public class Main {
         featureSun acesun = new featureSun();
         acesun.color="blue";
         acesun.heat ="60000452145kj";
-        acesun.temp="5 celsius";
-        acesun.radius="0.009";
-        acesun.maritalStatus="single";
-        
+        acesun.temp="55641154989kelvin";
+        acesun.radius="90000000km";
+        acesun.maritalStatus="in love with asghar";
+
     }
 }
