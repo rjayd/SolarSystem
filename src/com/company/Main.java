@@ -15,5 +15,12 @@ public class Main {
         acesun.radius="90000000km";
         acesun.maritalStatus="in love with asghar";
 
+        //planet2 features
+
+        planet2 bastronaut = new planet2();
+        bastronaut.color ="blue";
+        bastronaut.size="49844654987km";
+        bastronaut.status ="single";
+
     }
 }
