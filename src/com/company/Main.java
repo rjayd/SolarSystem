@@ -22,5 +22,8 @@ public class Main {
         bastronaut.size="49844654987km";
         bastronaut.status ="single";
 
+        Moon2 moon2 = new Moon2();
+        moon2.color ="grey";
+        moon2.size ="894549845 km";
     }
 }
