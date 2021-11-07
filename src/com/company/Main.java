@@ -22,5 +22,11 @@ public class Main {
         bastronaut.size="49844654987km";
         bastronaut.status ="single";
 
+        Moon1 money = new Moon1();
+        money.color ="red";
+        money.size ="negative";
+        money.dob="6";
+        money.ring="3";
+
     }
 }
