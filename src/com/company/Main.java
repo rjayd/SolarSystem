@@ -21,12 +21,16 @@ public class Main {
         bastronaut.color ="blue";
         bastronaut.size="49844654987km";
         bastronaut.status ="single";
-
+        
         Moon1 money = new Moon1();
         money.color ="red";
         money.size ="negative";
         money.dob="6";
         money.ring="3";
+
+        Moon2 moon2 = new Moon2();
+        moon2.color ="grey";
+        moon2.size ="894549845 km";
 
     }
 }
